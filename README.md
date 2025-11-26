@@ -4,7 +4,5 @@ README de exemplo
 
 
 
-adicionando comando git commit
-
 
 
